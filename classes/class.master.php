@@ -1,4 +1,13 @@
 <?
+/*
+ * PHP Master Page Class V0.0.5
+ * http://pixelgems.com
+ *
+ * Copyright 2013, Wayne Janzen
+ * 
+ * April 2013
+ */
+
 class master {
   var $defaults;
   var $pagealias;
