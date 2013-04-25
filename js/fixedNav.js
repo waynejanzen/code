@@ -1,3 +1,12 @@
+/*
+ * jQuery Pixelgems Fixed Nav V0.0.1
+ * http://pixelgems.com
+ *
+ * Copyright 2013, Wayne Janzen
+ * 
+ * April 2013
+ */
+
 (function($) {
   var globalel = 0;
     var fixnav = function(e, options){
