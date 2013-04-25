@@ -1,4 +1,13 @@
 <?
+/*
+ * PHP User Class V0.0.5
+ * http://pixelgems.com
+ *
+ * Copyright 2013, Wayne Janzen
+ * 
+ * April 2013
+ */
+ 
 class user {
   
   var $user;										//variable to store user data in
