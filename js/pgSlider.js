@@ -1,3 +1,11 @@
+/*
+ * jQuery Pixelgems Thumbnail Slider V0.0.2
+ * http://pixelgems.com
+ *
+ * Copyright 2013, Wayne Janzen
+ * 
+ * October 2013
+ */
 
 (function($) {
 
