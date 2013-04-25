@@ -4,7 +4,7 @@
  *
  * Copyright 2013, Wayne Janzen
  * 
- * October 2013
+ * April 2013
  */
 
 (function($) {
